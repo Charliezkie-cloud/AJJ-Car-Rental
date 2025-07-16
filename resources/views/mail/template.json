@@ -1,0 +1,1002 @@
+{
+    "root": {
+        "type": "EmailLayout",
+        "data": {
+            "backdropColor": "#F5F5F5",
+            "canvasColor": "#FFFFFF",
+            "textColor": "#262626",
+            "fontFamily": "MODERN_SANS",
+            "childrenIds": [
+                "block-1752604014641",
+                "block-1752608713366",
+                "block-1752604025103"
+            ]
+        }
+    },
+    "block-1752604014641": {
+        "type": "Heading",
+        "data": {
+            "props": {
+                "text": "AJJ Car Rental"
+            },
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 24,
+                    "left": 24
+                }
+            }
+        }
+    },
+    "block-1752604025103": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 24,
+                    "left": 24
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "contentAlignment": "top",
+                "columns": [
+                    {
+                        "childrenIds": [
+                            "block-1752604028823",
+                            "block-1752604046826",
+                            "block-1752604167091",
+                            "block-1752607903134",
+                            "block-1752608023348",
+                            "block-1752608077233",
+                            "block-1752608237647",
+                            "block-1752608256375",
+                            "block-1752608307514",
+                            "block-1752608204432"
+                        ]
+                    },
+                    {
+                        "childrenIds": [
+                            "block-1752608392598",
+                            "block-1752608402315",
+                            "block-1752608439328",
+                            "block-1752608545069",
+                            "block-1752608610042",
+                            "block-1752608628768"
+                        ]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752604028823": {
+        "type": "Heading",
+        "data": {
+            "props": {
+                "text": "Rental Details",
+                "level": "h3"
+            },
+            "style": {
+                "padding": {
+                    "top": 20,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            }
+        }
+    },
+    "block-1752604046826": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752604049863"]
+                    },
+                    {
+                        "childrenIds": ["block-1752604076607"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752604049863": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "markdown": false,
+                "text": "Rental Option"
+            }
+        }
+    },
+    "block-1752604076607": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "textAlign": "left",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "markdown": false,
+                "text": "rental option"
+            }
+        }
+    },
+    "block-1752604167091": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752604194509"]
+                    },
+                    {
+                        "childrenIds": ["block-1752604206542"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752604194509": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Vehicle"
+            }
+        }
+    },
+    "block-1752604206542": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "textAlign": "left",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "markdown": false,
+                "text": "Toyota Wigo A/T"
+            }
+        }
+    },
+    "block-1752607903134": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752607960929"]
+                    },
+                    {
+                        "childrenIds": ["block-1752607978922"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752607960929": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontSize": 13,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Start Date and Time"
+            }
+        }
+    },
+    "block-1752607978922": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "textAlign": "right",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "July 25, 2025 12:00:00"
+            }
+        }
+    },
+    "block-1752608023348": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608042105"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608060367"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608042105": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontSize": 13,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "End Date and Time"
+            }
+        }
+    },
+    "block-1752608060367": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "textAlign": "right",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "July 25, 2025 12:00:00"
+            }
+        }
+    },
+    "block-1752608077233": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608090016"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608106610"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608090016": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Delivery"
+            }
+        }
+    },
+    "block-1752608106610": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "textAlign": "left",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Airport"
+            }
+        }
+    },
+    "block-1752608204432": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608210935"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608220186"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608210935": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": null,
+                "fontWeight": "bold",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Total Amount"
+            }
+        }
+    },
+    "block-1752608220186": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "P2000.00"
+            }
+        }
+    },
+    "block-1752608237647": {
+        "type": "Divider",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "right": 0,
+                    "bottom": 16,
+                    "left": 0
+                }
+            },
+            "props": {
+                "lineColor": "#CCCCCC"
+            }
+        }
+    },
+    "block-1752608248237": {
+        "type": "Container",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "left": 24,
+                    "right": 24
+                }
+            },
+            "props": {}
+        }
+    },
+    "block-1752608256375": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608269763"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608287675"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608269763": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Vehicle Price"
+            }
+        }
+    },
+    "block-1752608287675": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "P1500 per day"
+            }
+        }
+    },
+    "block-1752608307514": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608310639"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608325640"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608310639": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Delivery Price"
+            }
+        }
+    },
+    "block-1752608325640": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "P500"
+            }
+        }
+    },
+    "block-1752608392598": {
+        "type": "Heading",
+        "data": {
+            "props": {
+                "text": "Renter's Information",
+                "level": "h3"
+            },
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 24,
+                    "left": 24
+                }
+            }
+        }
+    },
+    "block-1752608402315": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608404711"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608424330"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608404711": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Name"
+            }
+        }
+    },
+    "block-1752608424330": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Charles Henry M. Tinoy Jr."
+            }
+        }
+    },
+    "block-1752608439328": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 0,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608517715"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608486555"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608486555": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "charliezkiecharlzk@gmail.com"
+            }
+        }
+    },
+    "block-1752608517715": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Email"
+            }
+        }
+    },
+    "block-1752608545069": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608547685"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608577215"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608547685": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Contact number"
+            }
+        }
+    },
+    "block-1752608577215": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "09155910587"
+            }
+        }
+    },
+    "block-1752608610042": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608612404"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608619960"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608612404": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Address"
+            }
+        }
+    },
+    "block-1752608619960": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Sudlon Lahug Cebu City"
+            }
+        }
+    },
+    "block-1752608628768": {
+        "type": "ColumnsContainer",
+        "data": {
+            "style": {
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "columnsCount": 2,
+                "columnsGap": 16,
+                "columns": [
+                    {
+                        "childrenIds": ["block-1752608633661"]
+                    },
+                    {
+                        "childrenIds": ["block-1752608639477"]
+                    },
+                    {
+                        "childrenIds": []
+                    }
+                ]
+            }
+        }
+    },
+    "block-1752608633661": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "color": "#737373",
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "Message"
+            }
+        }
+    },
+    "block-1752608639477": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontSize": 12,
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 0,
+                    "bottom": 0,
+                    "right": 0,
+                    "left": 0
+                }
+            },
+            "props": {
+                "text": "No message provided."
+            }
+        }
+    },
+    "block-1752608713366": {
+        "type": "Text",
+        "data": {
+            "style": {
+                "fontWeight": "normal",
+                "padding": {
+                    "top": 16,
+                    "bottom": 16,
+                    "right": 24,
+                    "left": 24
+                }
+            },
+            "props": {
+                "text": "Hi Charles,\n\nThanks for choosing [Your Company Name]—we’re excited to confirm your car rental reservation. Here are the key details of your booking:\n\n"
+            }
+        }
+    }
+}
