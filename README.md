@@ -1,5 +1,5 @@
 # AJJ Car Rental
-- Offical AJJ Car Rental Source Code
+- A fully function booking car rental website made with laravel
 
 ## Development
 1. Clone the project`git clone https://github.com/Charliezkie-cloud/AJJ-Car-Rental.git`
